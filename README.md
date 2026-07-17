@@ -1,4 +1,4 @@
-# 🎁 Giveaways.lol
+# 🎁 giveaways.lol
 
 <div align="center">
 
