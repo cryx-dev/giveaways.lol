@@ -15,7 +15,7 @@
 
 ## 📌 About
 
-A powerful and feature-rich **Discord Giveaway Bot** with slash commands, built using the [discord-giveaways](https://npmjs.com/discord-giveaways) package. Perfect for hosting giveaways in your Discord server with ease!
+A powerful and feature-rich **Discord Giveaway Bot** with slash commands, built using the [discord-giveaways](https://npmjs.com/discord-giveaways) package. Perfect for hosting giveaways in your Discord server!
 
 ---
 
@@ -101,6 +101,18 @@ npm install
 ```bash
 node index.js
 ```
+
+---
+
+## 🚄 Deploy in One Click
+
+<div align="center">
+
+[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/template/fqK7Bm?referralCode=cryx-dev)
+
+</div>
+
+Deploy this bot instantly to Railway with a single click. Just add your Discord bot token when prompted!
 
 ---
 
