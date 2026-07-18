@@ -1,20 +1,19 @@
-# Environment variables
 .env
 .env.local
 .env.*.local
 
-# Dependencies
+
 node_modules/
 package-lock.json
 yarn.lock
 
-# Giveaway data
+
 giveaways.json
 
-# Configuration
+
 config.json
 
-# IDE
+
 .vscode/
 .idea/
 *.swp
@@ -22,7 +21,7 @@ config.json
 *~
 .DS_Store
 
-# Logs
+
 logs/
 *.log
 npm-debug.log*
