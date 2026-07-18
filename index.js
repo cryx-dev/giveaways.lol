@@ -90,10 +90,18 @@ fs.readdir("./events/", (_err, files) => {
     });
 });
 
-
 client.on("ready", () => {
     console.log(`✅ I am now online... (${client.user.tag})`);
-});
 
+    client.user.setPresence({
+        activities: [
+            {
+                name: "giveaways.lol 🎁",
+                type: Discord.ActivityType.Playing,
+            },
+        ],
+        status: "online",
+    });
+});
 
 client.login(config.token);
