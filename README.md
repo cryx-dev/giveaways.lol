@@ -75,7 +75,7 @@ cd giveaways.lol
 ```
 
 #### 2️⃣ Configuration
-Create a `config.json` file in the root directory:
+Create a `config.json` file in the root directory: (.env coming soon)
 
 ```json
 {
