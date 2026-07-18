@@ -1,3 +1,6 @@
+<div align="center">
+
+<img src="./logo.png" alt="giveaways.lol logo" width="180">
 # 🎁 giveaways.lol
 
 <div align="center">
