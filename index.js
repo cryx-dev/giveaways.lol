@@ -91,7 +91,7 @@ fs.readdir("./events/", (_err, files) => {
 });
 
 client.on("ready", () => {
-    console.log(`✅ I am now online... (${client.user.tag})`);
+    console.log(`✅ I am now online as (${client.user.tag})`);
 
     client.user.setPresence({
         activities: [
